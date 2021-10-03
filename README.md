@@ -1,4 +1,4 @@
-# TCO Chat Application
+# TCP Chat Application
 TCP Chat Application using Winsock 2 Socket Programming
 
 
