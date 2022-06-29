@@ -2,7 +2,6 @@
 TCP Chat Application using Winsock 2 Socket Programming
 
 
-
 Connection: 
 
 	- You can connect multiple instances of client to single server
